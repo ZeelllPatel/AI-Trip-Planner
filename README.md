@@ -70,64 +70,6 @@ Full-Stack-AI-Trip-Planner/
 └── vercel.json            # Vercel configuration
 ```
 
----
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your `.env` file:
-
-```plaintext
-VITE_GOOGLE_GEMINI_AI_API_KEY=
-VITE_GOOGLE_AUTH_CLIENT_ID=
-```
-
----
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/pavankumar2004/TravelwithAI.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Full-Stack-AI-Trip-Planner
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
----
-
-## Hosting
-
-The application is hosted on **Vercel**. You can visit the live site [here](https://travelwithai.vercel.app).
-
----
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeatureName`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeatureName`).
-5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - **Google Gemini AI** for powering the trip recommendations.
@@ -137,4 +79,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 Enjoy planning your trips with **TravelwithAI**! 🌍✈️
+
 
