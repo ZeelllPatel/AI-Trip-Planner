@@ -20,14 +20,14 @@
 Here are some screenshots of the application:
 
 ### Landing Page
-![Landing Page](./public/image1.png)
+<img width="1254" height="644" alt="ss-1" src="https://github.com/user-attachments/assets/08bc1587-f0ea-44e8-962e-a8c85bf8a234" />
 
 ### Trip Planning Page
-![Trip Planning Page](./public/image2.png)
+<img width="1255" height="644" alt="ss-2" src="https://github.com/user-attachments/assets/c82c4958-3d6d-48b9-8836-f1f3801dd6ff" />
+
 
 ### Trip Details Page
-![Trip Details Page](./public/image3.png)
-
+<img width="1254" height="647" alt="ss-3" src="https://github.com/user-attachments/assets/56abddab-1d0d-4fe8-8fe0-ef654af89f67" />
 
 ---
 
@@ -79,5 +79,6 @@ Full-Stack-AI-Trip-Planner/
 ---
 
 Enjoy planning your trips with **TravelwithAI**! 🌍✈️
+
 
 
